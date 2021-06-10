@@ -104,6 +104,7 @@ void Main()
 			}
 		}
 
+		// 当たり判定の部分に青色を塗る
 		for (int j = 0; j < mapData[2].size(); ++j)
 		{
 			for (int k = 0; k < mapData[2][j].size(); ++k)
